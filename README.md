@@ -1,12 +1,9 @@
 ipaymu Plugins Node .js 
 <p></p>
-<h1>Example Code </h1> 
+<h1>Example Code Direct Payment</h1> 
 <p></p>
 
-import * as ipaymu from "ipaymu";
-
-// ipaymu.setVa("0000008999927923");
-// ipaymu.setApiKey("SANDBOX76A13A0D-AD50-4061-9832-F5AF22B541D8-20220316213052");
+import * as ipaymu from "gusmang-ipaymu-node";
 
 ipaymu.setVa("1179000899");
 ipaymu.setApiKey("QbGcoO0Qds9sQFDmY0MWg1Tq.xtuh1");

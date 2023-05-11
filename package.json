@@ -1,6 +1,6 @@
 {
   "name": "gusmang-ipaymu-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Testing package for node js integrations iPaymu",
   "main": "./dist",
 	"types": "./dist",

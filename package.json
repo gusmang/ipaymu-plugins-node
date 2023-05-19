@@ -1,17 +1,21 @@
 {
   "name": "gusmang-ipaymu-node",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Testing package for node js integrations iPaymu",
   "main": "./dist",
 	"types": "./dist",
 	"scripts": {
 		"build": "tsc",
-		"watch": "tsc --watch"
+		"watch": "tsc --watch",
+    "test": "mocha"
 	},
   "dependencies": {
 		"axios": "^0.27.2",
 		"source-map-loader": "^3.0.1",
-		"ts-loader": "^9.3.0"
+		"ts-loader": "^9.3.0",
+    "chai": "^4.2.0",
+		"mocha": "^5.2.0",
+		"should": "0.3.x"
 	},
   "devDependencies": {
 		"@tsconfig/recommended": "^1.0.1",

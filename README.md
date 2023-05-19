@@ -1,4 +1,4 @@
-# ipaymu Plugins Node .js V.1.0.5
+# ipaymu Plugins Node .js V.1.0.6
 
 The [ipaymu](https://ipaymu.com/) library exported as [Node.js](https://nodejs.org/) modules.
 

@@ -9,6 +9,10 @@
 		"inlineSourceMap": true,
 		"inlineSources": true
 	},
+	"browser": {
+		"crypto": false,
+		"stream": false
+	},
 	"include": ["src"],
 	"exclude": ["node_modules"]
 }

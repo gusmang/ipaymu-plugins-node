@@ -1,4 +1,4 @@
-# ipaymu Plugins Node .js V.1.0.6
+# ipaymu Plugins Node .js V.1.0.7
 
 The [ipaymu](https://ipaymu.com/) library exported as [Node.js](https://nodejs.org/) modules.
 
@@ -14,7 +14,7 @@ $ npm i --save gusmang-ipaymu-node
 Import iPaymu Package First:
 
 ```js
-import * as ipaymu from "ipaymu";
+import * as ipaymu from "gusmang-ipaymu-node";
 ```
 
 Then , add the credentials ( Va & apiKey):
